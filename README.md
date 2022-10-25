@@ -15,9 +15,9 @@
 <div>
 <h1>Github Status</h1>
 <div>
-   <a href="https://www.github.com/ArthurMadureira" style="display: flex;">
-   <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurMadureira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMadureira&layout=compact&langs_count=16&theme=dark"/>
-    </a>
+
+<img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurMadureira&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/><br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMadureira&layout=compact&langs_count=16&theme=dark"/>
+
  </div>
 

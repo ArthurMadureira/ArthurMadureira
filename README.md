@@ -1,4 +1,4 @@
-### Hey, I'm Arthur Madureira
+### Hey, I'm Arthur Madureira 👋
  
 I'm a coding enthusiast, who lives to turn complex problems into simple and elegant solutions. Fron-end development is my forte, and I am constantly on the lookout for new technologies to explore and implement.
 
